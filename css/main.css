@@ -35,7 +35,7 @@ img {
 }
 
 figcaption {
-  font-weight: 400italic;
+  font-style: italic;
   text-align: center;
   font-size: .5rem;
 }
@@ -47,12 +47,12 @@ figcaption {
 
 blockquote {
   font-size: 3rem;
-  font-weight: 400italic;
+  font-style: italic;
 }
 
 cite {
   font-size: .5rem;
-  font-weight: 400italic;
+  font-style: italic;
 }
 
 h2 {
@@ -67,9 +67,16 @@ ol {
 }
 
 .serve {
-  font-weight: 400italic;
+  font-style: italic;
 }
 
+dt {
+  font-weight: bold 700;
+}
+
+ul {
+  font-decoration: bullets;
+}
 
 
 #4e0e1f (hover and title)
