@@ -1,0 +1,35 @@
+html {
+  background-color: #c9b5ae
+}
+
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #4e0e1f;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+}
+
+ol {
+  list-style-type: none;
+}
+
+a{
+  color: #9e2244;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #4e0e1f;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+#4e0e1f (hover and title)
+#9e2244 (list)
+#80494f (wiki)
