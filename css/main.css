@@ -1,16 +1,17 @@
 html {
-  background-color: #c9b5ae
+  background-color: #c9b5ae;
+  font-family: 'PT Serif', serif;
 }
 
 h1 {
   font-family: 'PT Sans', sans-serif;
   font-size: 3rem;
-  font-weight: bold;
+  font-weight: bold 700;
   color: #4e0e1f;
 }
 
 body {
-  font-family: 'PT Serif', serif;
+  font-family:'PT Serif', serif;
 }
 
 ol {
@@ -20,14 +21,55 @@ ol {
 a{
   color: #9e2244;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: bold 700;
 }
 
 a:hover {
   color: #4e0e1f;
-  text-decoration: none;
-  font-weight: bold;
+  text-decoration: underline;
+  font-weight: bold 700;
 }
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-weight: 400italic;
+  text-align: center;
+  font-size: .5rem;
+}
+
+.days {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+blockquote {
+  font-size: 3rem;
+  font-weight: 400italic;
+}
+
+cite {
+  font-size: .5rem;
+  font-weight: 400italic;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: 'PT Sans', sans-serif;
+  color: #4e0e1f;
+}
+
+ol {
+  font-decoration: ;
+}
+
+.serve {
+  font-weight: 400italic;
+}
+
 
 
 #4e0e1f (hover and title)
