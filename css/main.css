@@ -1,33 +1,34 @@
 html {
   background-color: #c9b5ae;
   font-family: 'PT Serif', serif;
+  font-weight: normal;
 }
 
 h1 {
   font-family: 'PT Sans', sans-serif;
   font-size: 3rem;
-  font-weight: bold 700;
+  font-weight: bold;
   color: #4e0e1f;
 }
 
 body {
-  font-family:'PT Serif', serif;
+  font-family: 'PT Serif', serif;
 }
 
 ol {
   list-style-type: none;
 }
 
-a{
+a {
   color: #9e2244;
   text-decoration: none;
-  font-weight: bold 700;
+  font-weight: bold;
 }
 
 a:hover {
   color: #4e0e1f;
   text-decoration: underline;
-  font-weight: bold 700;
+  font-weight: bold;
 }
 
 img {
@@ -41,8 +42,8 @@ figcaption {
 }
 
 .days {
-  font-weight: 700;
-  font-size: 2rem;
+  font-weight: bold;
+  font-size: 3rem;
 }
 
 blockquote {
@@ -57,13 +58,14 @@ cite {
 
 h2 {
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: bold;
   font-family: 'PT Sans', sans-serif;
   color: #4e0e1f;
 }
 
 ol {
-  font-decoration: ;
+  text-indent: 1em;
+  list-style-type: lower-greek;
 }
 
 .serve {
@@ -71,14 +73,10 @@ ol {
 }
 
 dt {
-  font-weight: bold 700;
+  text-indent: 1em;
+  font-weight: bold;
 }
 
 ul {
-  font-decoration: bullets;
+  list-style-type: circle;
 }
-
-
-#4e0e1f (hover and title)
-#9e2244 (list)
-#80494f (wiki)
